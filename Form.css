@@ -1,0 +1,29 @@
+body
+{
+    margin-right: 250px;
+    background-image: url('https://cdn.pixabay.com/photo/2020/04/16/11/12/background-5050209_1280.png');
+    background-repeat: no-repeat;
+    background-size: 1280px 683px;
+    color: aliceblue;
+}
+#main-registration-container
+{
+    text-align: center;
+}
+h1
+{
+    text-decoration: underline;
+}
+input
+{
+    width: 250px;
+    height: 20px;
+}
+.button
+{
+    width: 100px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    height: 30px;
+    font-weight: bolder;
+}
